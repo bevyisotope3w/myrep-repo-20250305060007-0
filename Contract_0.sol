@@ -1,5 +1,4 @@
-2
-contract HelloWorld_0 {
+3contract HelloWorld_0 {
     uint256 public randomNumber;
     string public message;
 
